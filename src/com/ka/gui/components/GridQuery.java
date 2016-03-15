@@ -1097,6 +1097,8 @@ public class GridQuery extends UI {
 	{
 		if (orig_data.isEmpty())		
 			fill_demo_Data();
+		else
+			fill_demo_Data();
 		set_grid_properties();
 		set_table_prop();
 		set_context_menu();
